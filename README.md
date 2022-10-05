@@ -7,6 +7,6 @@ Some languages / platforms / operating systems / tools I work with daily:
 - Node.js and Deno javascript runtimes
 - Clang, Java
 - Ubuntu Server 22.04, MacOS 12.5, FreeBSD 13.1-RELEASE, Windows 11 with Ubuntu 22.04 via WSL2
-- systemd service manager
+- systemd
 - vim, VSCode
 - React, Fresh
