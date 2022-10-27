@@ -9,5 +9,4 @@ Some languages / platforms / operating systems / tools I work with daily:
 - PostgreSQL, SQLite
 - Ubuntu Server 22.04, MacOS 12.5, FreeBSD 13.1-RELEASE, Windows 11 with Ubuntu 22.04 via WSL2
 - systemd
-- vim, VSCode
 - React, Fresh
